@@ -1,0 +1,6 @@
+[submodule "cjose"]
+	path = cjose
+	url = https://github.com/cisco/cjose.git
+[submodule "jansson"]
+	path = jansson
+	url = git@github.com:akheron/jansson.git
