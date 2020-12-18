@@ -5,6 +5,7 @@
 struct wallet {
     char *address;
     char *owner;
+    cjose_jwk_t *jwk;
 };
 
 #endif

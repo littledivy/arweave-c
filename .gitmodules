@@ -4,3 +4,6 @@
 [submodule "jansson"]
 	path = jansson
 	url = git@github.com:akheron/jansson.git
+[submodule "jsmn"]
+	path = jsmn
+	url = git@github.com:zserge/jsmn.git
